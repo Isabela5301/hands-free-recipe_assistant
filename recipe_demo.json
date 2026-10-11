@@ -1,0 +1,24 @@
+{
+  "name": "peanut butter Oatmeal bars",
+  "ingredients": [
+    "1 package of quick oats",
+    "1 cup peanut butter",
+    "1 tsp sugar",
+    "1 banana",
+    "3 tbsp honey",
+    "a handful of berries"
+  ],
+  "steps": [
+    {"text": "Wash your hands and slice the banana."},
+    {"text": "Pour the oats and peanut butter into a bowl."},
+    {"text": "mix the ingredients together.", "timer": 120},
+    {"text": "Stir in the sugar."},
+    {"text": "add the honey.", "timer": 60},
+    {"text": "Spoon the mixture into a bowl."},
+    {"text": "Lay them on an parchment paper lined baking sheet."},
+     {"text": "Top with banana, berries, and extra honey if desired."},
+    {"text": "refrigerate them for at least 1 hour.", "timer": 3600},
+    {"text": "Cut into bars and serve."}, 
+    {"text": "Enjoy your peanut butter oatmeal bars!"}
+  ]
+}
